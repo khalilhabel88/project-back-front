@@ -1,0 +1,21 @@
+
+  .addcours{ width: 403px;margin-left: 380px ;margin-top: 50px;padding: 50px;}
+  .styleadd{ margin: 150px ;background-color: #007bff;width: 400px; background-image: url(https://images-platform.99static.com/ak8GjXUhsuZmv0cdGPdEotUK5dw=/150x150:1350x1350/500x500/top/smart/99designs-contests-attachments/94/94788/attachment_94788434)}
+  
+  .card-container{ width: 300px;
+  height: 500px;
+    border-radius: 20px;
+    margin: 40px;
+  
+    display: flex;
+  
+    background-color:#007bff;
+    justify-content: space-around;
+  }
+  h1{color: white;}
+  .btn{width: 220px;margin-left: 40px;}
+  .style{ margin: 150px;width: 400px;background-image: url(https://images-platform.99static.com/ak8GjXUhsuZmv0cdGPdEotUK5dw=/150x150:1350x1350/500x500/top/smart/99designs-contests-attachments/94/94788/attachment_94788434)}
+  .addcour{width: 603px;margin-left: 340px ;margin-top: 20px;padding: 100px;}
+  .card{display:flex; justify-content: space-around;border: 1px solid black;}
+  .description{display: flex; flex-direction: column; margin-left: 100px;}
+  
